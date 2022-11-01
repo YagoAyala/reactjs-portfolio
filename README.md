@@ -12,7 +12,6 @@ Esse projeto foi construido com essas tecnologias:
 - Express.js
 - CSS3
 - VsCode
-- Vercel
 
 ## 🛠 Instrução para configuração e instalação
 
