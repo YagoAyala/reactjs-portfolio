@@ -19,36 +19,36 @@ function Home2() {
               DEIXE-ME <span className="purple"> APRESENTAR </span> O YAGO
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            Brasileiro, 19 anos de idade. Sou ambicioso e dedicado, apaixonado por tecnologia, estou disposto a aprender linguagens 
+            novas (tanto de programação, quanto faladas). Pretendo agregar coisas boas por onde eu passar.🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />Me sinto confortavel com
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> JavaScript, TypeScript e C#. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              Tenho muito interesse em mexer com&nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">API's e Backend's </b> e também
+                gosto de trabalhar na área relacionada a{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  Desenvolvedor Frontend e DevOps.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              Sempre que possível, gosto de ficar fazendo projetos pessoais e para pequenas empresas usando
+              <b className="purple"> Node.js</b> e
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Frameworks e bibliotecas moderndas do JavaScript
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; como por exemplo:
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js e Next.js</b>
               </i>
             </p>
           </Col>
@@ -60,14 +60,14 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1>Bora trocar uma ideia?</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Sinta-se a vontade de entrar <span className="purple">em contato </span>comigo
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/YagoAyala"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,17 +77,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/yagoca/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +87,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/yago_ca_/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

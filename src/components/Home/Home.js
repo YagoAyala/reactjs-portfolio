@@ -16,12 +16,12 @@ function Home() {
               <h1 style={{ paddingBottom: 15 }} className="heading">
                 Bem-Vindo!{" "}
                 <span className="wave" role="img" aria-labelledby="wave">
-                  Me chamo
+                👋🏻
                 </span>
               </h1>
 
               <h1 className="heading-name">
-                I'M
+                Me chamo
                 <strong className="main-name"> Yago Costa Ayala</strong>
               </h1>
 
