@@ -8,8 +8,7 @@
 Esse projeto foi construido com essas tecnologias:
 
 - React.js
-- Node.js
-- Express.js
+- HTML
 - CSS3
 - VsCode
 
