@@ -21,19 +21,16 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={blog}
-              title="Upflux"
-              description="Atualmente estou trabalhando no Back-End usando C#, também estou trabalhando no FrontEnd realizando testes automatizados E2E para 
-              verificar se há bugs na plataforma, utilizando Cypress e Cucumber. Além disso dei suporte na área de DevOps melhorando/adicionando CI 
-              pipeline para verificar a qualidade de código usando a integração do Sonarqube e para também rodar todos os testes a cada pull request aberta."
+              title="Clinicorp Solution"
+              description="Atualmente trabalho como Desenvolvedor Full Stack na Clinicorp Solutions, iniciando em dezembro de 2022. Concentrei-me inicialmente na resolução de bugs em produtos recém-lançados, aumentando a confiabilidade das aplicações. Enfrentei o desafio de refatorar um software complexo responsável por gerenciar uma grande quantidade de dados, utilizando tecnologias como NodeJS Stream e métodos avançados de compressão de dados. Além disso, efetivamente integrei React Context, useMemo, e React Memo para melhorar o desempenho. Durante esse período, desenvolvi uma função de nuvem (CF) que simplificou a integração de novas rotas, destacando-se por sua eficiência. Fui essencial no desenvolvimento de diversas Cloud Functions, Tasks, Queues, e Jobs, gerenciando Collections do DataStore e soluções de armazenamento, com um foco particular na implementação de testes unitários, alcançando uma cobertura de 100%."
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
-              title="Multiplier"
-              description="Trabalhei na Multiplier por 5 meses. Refatorei as validações e os controllers e criei dois Backend's uma usando TypeScript e 
-              outra usando Go/Golang, nos dois tiveram Teste Unitário, e GraphQL. Foram usados os princípios do SOLID e do TDD."
+              title="Upflux"
+              description="Como desenvolvedor backend em C#, contribuí significativamente para o projeto Upflux, implementando novas funcionalidades e refatorando código legado, mantendo altos padrões de qualidade através de testes unitários e de integração. Ampliei minha experiência para o frontend, focando na refatoração de código para garantir compatibilidade total com SonarQube. Esta jornada me levou ao campo de DevOps, onde me especializei na configuração de SonarQube, Quality Gates, integração contínua (CI) e no uso do Husky para reforçar a eficiência e qualidade do processo de desenvolvimento."
             />
           </Col>
 
@@ -41,8 +38,7 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               title="DevHero"
-              description="Fiquei na DevHero, por 5 meses. Produzi sites para os consumidores, na parte do Front-End usei Vue.js, JavaScript, CSS, SASS, HTML. 
-              Também consumi várias API's para dar novas funcionalidades para os sites, na parte do BackEnd tive muito contato com REST, Node.js, express, MongoDB."             
+              description="Comecei na DevHero realizando integrações usando Typescript e Node.js. Mais tarde, tive a oportunidade de apoiar a equipe de front-end, onde trabalhei com Vue.js, ampliando minha experiência e contribuindo para diversos aspectos do projeto."
             />
           </Col>
         </Row>

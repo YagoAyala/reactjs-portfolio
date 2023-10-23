@@ -10,8 +10,8 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Sejam bem-vindo, eu sou o <span className="purple">Yago Costa Ayala </span>
             sou de <span className="purple"> Santa Catarina, Brasil.</span>
-            <br />Sou um desenvolvedor Junior que atualmente está cursando
-            Bacharelado em Engenharia de Software
+            <br />Sou um Desenvolvedor Pleno que atualmente está cursando
+            Bacharelado em Engenharia de Software e trabalhando na Clinicorp Solution
             <br />
             <br />
             Alem de codar, existem outras atividades que eu gosto de fazer!
@@ -26,8 +26,11 @@ function AboutCard() {
             <li className="about-activity">
               <ImPointRight /> Ver filme
             </li>
+            <li className="about-activity">
+              <ImPointRight /> Bater uma bola
+            </li>
           </ul>
-
+{/* TODO: Adicionar a fala do CTO da Spotify */}
           <p style={{ color: "rgb(155 126 172)" }}>
             "Ser programador é ser paciente e persistente na busca de novos conhecimentos."{" "}
           </p>

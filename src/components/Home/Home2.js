@@ -4,7 +4,6 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -19,18 +18,18 @@ function Home2() {
               DEIXE-ME <span className="purple"> APRESENTAR </span> O YAGO
             </h1>
             <p className="home-about-body">
-            Brasileiro, 19 anos de idade. Sou ambicioso e dedicado, apaixonado por tecnologia, estou disposto a aprender linguagens 
+            Brasileiro, 20 anos de idade. Sou ambicioso e dedicado, apaixonado por tecnologia, estou disposto a aprender linguagens 
             novas (tanto de programação, quanto faladas). Pretendo agregar coisas boas por onde eu passar.🤷‍♂️
               <br />
               <br />Me sinto confortavel com
               <i>
-                <b className="purple"> JavaScript, TypeScript e C#. </b>
+                <b className="purple"> JavaScript, TypeScript, NodeJS e ReactJS. </b>
               </i>
               <br />
               <br />
               Tenho muito interesse em mexer com&nbsp;
               <i>
-                <b className="purple">API's e Backend's </b> e também
+                <b className="purple">API's e Backend's de alta complexidade </b> e também
                 gosto de trabalhar na área relacionada a{" "}
                 <b className="purple">
                   Desenvolvedor Frontend e DevOps.
